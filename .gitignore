@@ -1,0 +1,3 @@
+virtual/
+*.pyc
+#excluding our virtual environment and all the compiled python files
