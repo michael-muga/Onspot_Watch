@@ -1,9 +1,10 @@
 class News:
 
-    def __init__(self,id,title,overview,coverPhoto,vote_average,vote_count):
+    def __init__(self,id,author,title,description,url,urlToImage,content):
         self.id  = id
+        self.author = author
         self.title = title
-        self.overview = overview
-        self.coverPhoto = 'https://www.google.com/'+coverPhoto
-        self.vote_avarage = vote_average
-        self.vote_count = vote_count
+        self.description = description
+        self.urlToImage = 'https://www.google.com/'+urlToImage
+        self.url = 'vote_average'+url
+        self.content = content
