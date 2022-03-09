@@ -1,4 +1,3 @@
 virtual/
 *.pyc
-instance/
 #excluding our virtual environment and all the compiled python files
