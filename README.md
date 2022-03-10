@@ -1,6 +1,6 @@
 # Titravic News
 
-This project was generated with [PYTHON]version 3.8.
+a website that allows the user to view different news topics from all over the world from different categories
 by Michael Muga
 
 
@@ -27,6 +27,9 @@ visit the site above
 
 ## Technology Used
 * python - to develope the logic of the application
+* html - for building the structure of the pages
+* css - for styling of the websites pages
+
 
 ## License
 MIT license
